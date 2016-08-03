@@ -6,9 +6,9 @@ color:
   saturation: 0.7287959386594594
   rhythmicContrast: 0.21994726592674851
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: Nadia Cudd
